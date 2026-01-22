@@ -299,16 +299,32 @@ const MarkdownPreview = ({ content, style, scrollEnabled = true }) => {
 
     return (
       <View style={imageContainerStyle}>
-        <Image
-          source={{ uri: src }}
-          style={{
-            width: Math.min(800, width - 40),
-            maxWidth: 800,
-            borderRadius: 8,
-            alignSelf: 'center',
-          }}
-          resizeMode="contain"
-        />
+        {Platform.OS === 'web' ? (
+          <img
+            src={src}
+            alt={altText || ''}
+            style={{
+              width: '100%',
+              maxWidth: '800px',
+              height: 'auto',
+              borderRadius: '8px',
+              display: 'block',
+              margin: '0 auto',
+            }}
+          />
+        ) : (
+          <Image
+            source={{ uri: src }}
+            style={{
+              width: Math.min(800, width - 40),
+              maxWidth: 800,
+              height: 600,
+              borderRadius: 8,
+              alignSelf: 'center',
+            }}
+            resizeMode="contain"
+          />
+        )}
         {altText && (
           <View style={captionContainerStyle}>
             {Platform.OS === 'web' ? (
