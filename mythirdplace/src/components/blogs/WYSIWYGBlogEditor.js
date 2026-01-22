@@ -110,10 +110,10 @@ const WYSIWYGBlogEditor = ({
       .replace(/!\[([^\]]*)\]\(([^)]+)\)\n\*([^*]+)\*/g, '<div class="image-container" style="text-align: center; width: 100%;"><img src="$2" alt="$1" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 12px auto; border-radius: 8px;" /><p class="image-caption" style="color: #666; font-size: 14px; font-style: italic; text-align: center; margin-top: 8px; width: 100%;">$3</p></div>')
       // Images without captions
       .replace(/!\[([^\]]*)\]\(([^)]+)\)/g, '<div class="image-container" style="text-align: center; width: 100%;"><img src="$2" alt="$1" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 12px auto; border-radius: 8px;" /></div>')
-      // Incomplete image markdown (missing URL) - show as warning
+      // Incomplete image markdown - ![text] without URL
       .replace(/!\[([^\]]*)\](?!\()/g, '<div style="background-color: #fff3cd; border: 2px dashed #856404; padding: 12px; margin: 12px 0; border-radius: 8px; color: #856404; text-align: center;"><strong>⚠️ Broken Image</strong><br/>Missing image URL. Please re-upload the image using the image button above.</div>')
-      // Standalone !Image text
-      .replace(/^!Image$/gm, '<div style="background-color: #fff3cd; border: 2px dashed #856404; padding: 12px; margin: 12px 0; border-radius: 8px; color: #856404; text-align: center;"><strong>⚠️ Broken Image</strong><br/>Missing image URL. Please re-upload the image using the image button above.</div>')
+      // Catch any remaining ! followed by Image/image that isn't valid markdown
+      .replace(/!(?:Image|image)\b(?!\]|\()/gi, '<div style="background-color: #fff3cd; border: 2px dashed #856404; padding: 12px; margin: 12px 0; border-radius: 8px; color: #856404; text-align: center;"><strong>⚠️ Broken Image</strong><br/>Missing image URL. Please re-upload the image using the image button above.</div>')
       // Lists
       .replace(/^\* (.*$)/gm, '<li>$1</li>')
       .replace(/^(\d+)\. (.*$)/gm, '<li>$1. $2</li>')
