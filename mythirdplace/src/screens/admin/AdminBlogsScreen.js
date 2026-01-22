@@ -2,13 +2,14 @@ import React, { useState, useEffect } from 'react';
 import { View, Text, StyleSheet, TouchableOpacity, ActivityIndicator, TextInput, Alert, ScrollView, Platform } from 'react-native';
 import AdminLayout from '../../components/admin/AdminLayout';
 import { getAllBlogs, deleteBlog, updateBlogData } from '../../services/admin';
+import BlogEditModal from '../../components/blogs/BlogEditModal';
 
 const AdminBlogsScreen = ({ navigation }) => {
   const [blogs, setBlogs] = useState([]);
   const [loading, setLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState('');
   const [editingBlog, setEditingBlog] = useState(null);
-  const [editForm, setEditForm] = useState({});
+  const [modalVisible, setModalVisible] = useState(false);
 
   useEffect(() => {
     loadBlogs();
@@ -40,21 +41,21 @@ const AdminBlogsScreen = ({ navigation }) => {
   };
 
   const handleEdit = (blog) => {
-    setEditingBlog(blog.id);
-    setEditForm({
-      title: blog.title || '',
-      category: blog.category || '',
-    });
+    setEditingBlog(blog);
+    setModalVisible(true);
   };
 
-  const handleSaveEdit = async () => {
+  const handleCloseModal = () => {
+    setModalVisible(false);
+    setEditingBlog(null);
+  };
+
+  const handleSaveEdit = async (updatedData) => {
     try {
-      await updateBlogData(editingBlog, editForm);
-      Alert.alert('Success', 'Blog updated successfully');
-      setEditingBlog(null);
-      loadBlogs();
+      await updateBlogData(editingBlog.id, updatedData);
+      await loadBlogs();
     } catch (error) {
-      Alert.alert('Error', 'Failed to update blog');
+      throw error; // Let the modal handle the error
     }
   };
 
@@ -88,67 +89,43 @@ const AdminBlogsScreen = ({ navigation }) => {
 
             {filteredBlogs.map((blog) => (
               <View key={blog.id} style={styles.tableRow}>
-                {editingBlog === blog.id ? (
-                  <>
-                    <TextInput
-                      style={[styles.tableCell, styles.titleCell, styles.input]}
-                      value={editForm.title}
-                      onChangeText={(text) => setEditForm({ ...editForm, title: text })}
-                    />
-                    <TextInput
-                      style={[styles.tableCell, styles.categoryCell, styles.input]}
-                      value={editForm.category}
-                      onChangeText={(text) => setEditForm({ ...editForm, category: text })}
-                    />
-                    <Text style={[styles.tableCell, styles.dateCell]}>
-                      {blog.createdAt?.toDate?.().toLocaleDateString() || 'N/A'}
-                    </Text>
-                    <View style={[styles.tableCell, styles.actionsCell]}>
-                      <TouchableOpacity style={styles.saveButton} onPress={handleSaveEdit}>
-                        <Text style={styles.buttonText}>Save</Text>
-                      </TouchableOpacity>
-                      <TouchableOpacity
-                        style={styles.cancelButton}
-                        onPress={() => setEditingBlog(null)}
-                      >
-                        <Text style={styles.buttonText}>Cancel</Text>
-                      </TouchableOpacity>
-                    </View>
-                  </>
-                ) : (
-                  <>
-                    <Text style={[styles.tableCell, styles.titleCell]}>{blog.title}</Text>
-                    <Text style={[styles.tableCell, styles.categoryCell]}>{blog.category}</Text>
-                    <Text style={[styles.tableCell, styles.dateCell]}>
-                      {blog.createdAt?.toDate?.().toLocaleDateString() || 'N/A'}
-                    </Text>
-                    <View style={[styles.tableCell, styles.actionsCell]}>
-                      <TouchableOpacity
-                        style={styles.editButton}
-                        onPress={() => handleEdit(blog)}
-                      >
-                        <Text style={styles.buttonText}>Edit</Text>
-                      </TouchableOpacity>
-                      <TouchableOpacity
-                        style={styles.viewButton}
-                        onPress={() => navigation.navigate('BlogDetail', { blogId: blog.id })}
-                      >
-                        <Text style={styles.buttonText}>View</Text>
-                      </TouchableOpacity>
-                      <TouchableOpacity
-                        style={styles.deleteButton}
-                        onPress={() => handleDelete(blog.id, blog.title)}
-                      >
-                        <Text style={styles.buttonText}>Delete</Text>
-                      </TouchableOpacity>
-                    </View>
-                  </>
-                )}
+                <Text style={[styles.tableCell, styles.titleCell]}>{blog.title}</Text>
+                <Text style={[styles.tableCell, styles.categoryCell]}>{blog.category}</Text>
+                <Text style={[styles.tableCell, styles.dateCell]}>
+                  {blog.createdAt?.toDate?.().toLocaleDateString() || 'N/A'}
+                </Text>
+                <View style={[styles.tableCell, styles.actionsCell]}>
+                  <TouchableOpacity
+                    style={styles.editButton}
+                    onPress={() => handleEdit(blog)}
+                  >
+                    <Text style={styles.buttonText}>Edit</Text>
+                  </TouchableOpacity>
+                  <TouchableOpacity
+                    style={styles.viewButton}
+                    onPress={() => navigation.navigate('BlogDetail', { blogId: blog.id })}
+                  >
+                    <Text style={styles.buttonText}>View</Text>
+                  </TouchableOpacity>
+                  <TouchableOpacity
+                    style={styles.deleteButton}
+                    onPress={() => handleDelete(blog.id, blog.title)}
+                  >
+                    <Text style={styles.buttonText}>Delete</Text>
+                  </TouchableOpacity>
+                </View>
               </View>
             ))}
           </View>
         </ScrollView>
       )}
+
+      <BlogEditModal
+        visible={modalVisible}
+        onClose={handleCloseModal}
+        blog={editingBlog}
+        onSave={handleSaveEdit}
+      />
     </AdminLayout>
   );
 };
@@ -209,13 +186,6 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     gap: 8,
   },
-  input: {
-    backgroundColor: '#f5f5f5',
-    borderWidth: 1,
-    borderColor: '#ddd',
-    borderRadius: 4,
-    padding: 8,
-  },
   editButton: {
     backgroundColor: '#006548',
     paddingHorizontal: 12,
@@ -230,18 +200,6 @@ const styles = StyleSheet.create({
   },
   deleteButton: {
     backgroundColor: '#dc3545',
-    paddingHorizontal: 12,
-    paddingVertical: 6,
-    borderRadius: 4,
-  },
-  saveButton: {
-    backgroundColor: '#28a745',
-    paddingHorizontal: 12,
-    paddingVertical: 6,
-    borderRadius: 4,
-  },
-  cancelButton: {
-    backgroundColor: '#6c757d',
     paddingHorizontal: 12,
     paddingVertical: 6,
     borderRadius: 4,
