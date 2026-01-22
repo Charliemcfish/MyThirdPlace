@@ -19,7 +19,13 @@ const AdminBlogsScreen = ({ navigation }) => {
     setLoading(true);
     try {
       const data = await getAllBlogs();
-      setBlogs(data);
+      // Sort blogs by createdAt, newest first
+      const sortedBlogs = data.sort((a, b) => {
+        const dateA = a.createdAt?.toDate?.() || new Date(0);
+        const dateB = b.createdAt?.toDate?.() || new Date(0);
+        return dateB - dateA; // Descending order (newest first)
+      });
+      setBlogs(sortedBlogs);
     } catch (error) {
       Alert.alert('Error', 'Failed to load blogs');
     } finally {

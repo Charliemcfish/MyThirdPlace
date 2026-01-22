@@ -7,7 +7,6 @@ const BlogEditModal = ({ visible, onClose, blog, onSave }) => {
     title: '',
     category: '',
     content: '',
-    excerpt: '',
     tags: [],
     isFeatured: false,
   });
@@ -21,7 +20,6 @@ const BlogEditModal = ({ visible, onClose, blog, onSave }) => {
         title: blog.title || '',
         category: blog.category || '',
         content: blog.content || '',
-        excerpt: blog.excerpt || '',
         tags: blog.tags || [],
         isFeatured: blog.isFeatured || false,
       });
@@ -121,20 +119,6 @@ const BlogEditModal = ({ visible, onClose, blog, onSave }) => {
                 onChangeText={(text) => setEditForm({ ...editForm, category: text })}
                 placeholder="Enter category"
                 placeholderTextColor="#999"
-              />
-            </View>
-
-            {/* Excerpt Field */}
-            <View style={styles.fieldContainer}>
-              <Text style={styles.label}>Excerpt</Text>
-              <TextInput
-                style={[styles.input, styles.textArea]}
-                value={editForm.excerpt}
-                onChangeText={(text) => setEditForm({ ...editForm, excerpt: text })}
-                placeholder="Enter a brief excerpt (optional)"
-                placeholderTextColor="#999"
-                multiline
-                numberOfLines={3}
               />
             </View>
 
