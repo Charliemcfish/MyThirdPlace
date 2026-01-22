@@ -304,7 +304,6 @@ const MarkdownPreview = ({ content, style, scrollEnabled = true }) => {
           style={{
             width: Math.min(800, width - 40),
             maxWidth: 800,
-            height: 600,
             borderRadius: 8,
             alignSelf: 'center',
           }}
