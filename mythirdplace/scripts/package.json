@@ -1,0 +1,14 @@
+{
+  "name": "mythirdplace-migration-scripts",
+  "version": "1.0.0",
+  "description": "Migration scripts for MyThirdPlace platform",
+  "scripts": {
+    "migrate-users": "node migrateUsers.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

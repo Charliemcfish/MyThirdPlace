@@ -1,0 +1,1803 @@
+{
+  "total": 366,
+  "renamed": 359,
+  "skipped": 7,
+  "errors": 0,
+  "files": [
+    {
+      "old": "blog-images/1758830188939_bf4z74qrmy_1000x1000.jpg",
+      "new": "blog-images/1758830188939_bf4z74qrmy.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758830432242_6y7mo7cbxli_1000x1000.jpg",
+      "new": "blog-images/1758830432242_6y7mo7cbxli.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758830444059_mnkfux5ujet_1000x1000.jpg",
+      "new": "blog-images/1758830444059_mnkfux5ujet.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758830554270_ivpfn9hdhmb_1000x1000.jpg",
+      "new": "blog-images/1758830554270_ivpfn9hdhmb.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758830563495_34uub1nzy7k_1000x1000.jpg",
+      "new": "blog-images/1758830563495_34uub1nzy7k.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758830570839_xrhlfh2s6e_1000x1000.jpg",
+      "new": "blog-images/1758830570839_xrhlfh2s6e.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758830769174_2xgujmqtapn_1000x1000.jpg",
+      "new": "blog-images/1758830769174_2xgujmqtapn.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758830785995_509ke8j5w6o_1000x1000.jpg",
+      "new": "blog-images/1758830785995_509ke8j5w6o.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758830809258_fbd7i2btkdd_1000x1000.jpg",
+      "new": "blog-images/1758830809258_fbd7i2btkdd.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758830917357_g3e52o0e1ol_1000x1000.jpg",
+      "new": "blog-images/1758830917357_g3e52o0e1ol.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758830935323_quviy5y50rc_1000x1000.jpg",
+      "new": "blog-images/1758830935323_quviy5y50rc.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758830947290_tcbtxcwkqx_1000x1000.jpg",
+      "new": "blog-images/1758830947290_tcbtxcwkqx.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758831460902_9oqfl72d8si_1000x1000.jpg",
+      "new": "blog-images/1758831460902_9oqfl72d8si.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758831478998_jml3pw1e7ep_1000x1000.jpg",
+      "new": "blog-images/1758831478998_jml3pw1e7ep.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758831489847_fcwtmuynsxn_1000x1000.jpg",
+      "new": "blog-images/1758831489847_fcwtmuynsxn.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758831498563_rxifi9tzxuk_1000x1000.jpg",
+      "new": "blog-images/1758831498563_rxifi9tzxuk.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758831921275_vt1vr1z0l1_1000x1000.jpg",
+      "new": "blog-images/1758831921275_vt1vr1z0l1.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758832358351_0nnh71mlpzn_1000x1000.jpg",
+      "new": "blog-images/1758832358351_0nnh71mlpzn.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758832374753_p81gkp7ouk_1000x1000.jpg",
+      "new": "blog-images/1758832374753_p81gkp7ouk.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758832385685_k8fcw7p1nd_1000x1000.jpg",
+      "new": "blog-images/1758832385685_k8fcw7p1nd.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758832397060_1c4woylkc6l_1000x1000.jpg",
+      "new": "blog-images/1758832397060_1c4woylkc6l.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758832408967_7j62jszkgjv_1000x1000.jpg",
+      "new": "blog-images/1758832408967_7j62jszkgjv.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758832419405_wnvd2qb1tqn_1000x1000.jpg",
+      "new": "blog-images/1758832419405_wnvd2qb1tqn.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758832667720_bhr6l1ojuz_1000x1000.jpg",
+      "new": "blog-images/1758832667720_bhr6l1ojuz.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758832677820_85fghuetzpf_1000x1000.jpg",
+      "new": "blog-images/1758832677820_85fghuetzpf.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758832686666_cxrk1buz2xl_1000x1000.jpg",
+      "new": "blog-images/1758832686666_cxrk1buz2xl.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758832696143_q170jcbz62n_1000x1000.jpg",
+      "new": "blog-images/1758832696143_q170jcbz62n.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758832710543_q7bf4b8fr_1000x1000.jpg",
+      "new": "blog-images/1758832710543_q7bf4b8fr.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758832720728_9jy1zzcfnw8_1000x1000.jpg",
+      "new": "blog-images/1758832720728_9jy1zzcfnw8.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758834084886_hn6yfzwdmx_1000x1000.jpg",
+      "new": "blog-images/1758834084886_hn6yfzwdmx.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758834109343_w3dugy23rjk_1000x1000.jpg",
+      "new": "blog-images/1758834109343_w3dugy23rjk.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758834121028_hdsysf9v30m_1000x1000.jpg",
+      "new": "blog-images/1758834121028_hdsysf9v30m.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758834134923_hwv0gqokxu_1000x1000.jpg",
+      "new": "blog-images/1758834134923_hwv0gqokxu.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758834146962_hugz7smed4l_1000x1000.jpg",
+      "new": "blog-images/1758834146962_hugz7smed4l.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758834370688_qh1mf45avvj_1000x1000.jpg",
+      "new": "blog-images/1758834370688_qh1mf45avvj.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758834394687_blgllwliudf_1000x1000.jpg",
+      "new": "blog-images/1758834394687_blgllwliudf.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758834412481_oa0nbstc1tr_1000x1000.jpg",
+      "new": "blog-images/1758834412481_oa0nbstc1tr.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758834441305_ne10n1zawlq_1000x1000.jpg",
+      "new": "blog-images/1758834441305_ne10n1zawlq.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758834465133_5eme7f8hn63_1000x1000.jpg",
+      "new": "blog-images/1758834465133_5eme7f8hn63.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758834489386_blhxlr1lnnw_1000x1000.jpg",
+      "new": "blog-images/1758834489386_blhxlr1lnnw.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758834504955_ve19uvbqhjb_1000x1000.jpg",
+      "new": "blog-images/1758834504955_ve19uvbqhjb.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758834514952_99r0azben0l_1000x1000.jpg",
+      "new": "blog-images/1758834514952_99r0azben0l.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758834655225_u9ht4uqefb_1000x1000.jpg",
+      "new": "blog-images/1758834655225_u9ht4uqefb.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758834661731_yz99nzg7z5f_1000x1000.jpg",
+      "new": "blog-images/1758834661731_yz99nzg7z5f.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758834669259_gdjiaskyfkv_1000x1000.jpg",
+      "new": "blog-images/1758834669259_gdjiaskyfkv.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758834680249_xhm50f9ii7p_1000x1000.jpg",
+      "new": "blog-images/1758834680249_xhm50f9ii7p.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758834692660_aisuw3oo1k_1000x1000.jpg",
+      "new": "blog-images/1758834692660_aisuw3oo1k.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758836883607_gij6jliojnu_1000x1000.jpg",
+      "new": "blog-images/1758836883607_gij6jliojnu.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758836923524_sysmjwdicbe_1000x1000.jpg",
+      "new": "blog-images/1758836923524_sysmjwdicbe.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758837436595_g53cav35n6f_1000x1000.jpg",
+      "new": "blog-images/1758837436595_g53cav35n6f.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758837517108_8aqenwexg4p_1000x1000.jpg",
+      "new": "blog-images/1758837517108_8aqenwexg4p.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758838041801_c2yypek7wz7_1000x1000.jpg",
+      "new": "blog-images/1758838041801_c2yypek7wz7.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1758969617241_xpa3znzspq_1000x1000.jpg",
+      "new": "blog-images/1758969617241_xpa3znzspq.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759085209295_mruq1ksgazj_1000x1000.jpg",
+      "new": "blog-images/1759085209295_mruq1ksgazj.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759085259064_29mdfcy0koi_1000x1000.jpg",
+      "new": "blog-images/1759085259064_29mdfcy0koi.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759085289306_bfw5cll3gzf_1000x1000.jpg",
+      "new": "blog-images/1759085289306_bfw5cll3gzf.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759085354898_ijsbh0hi8v_1000x1000.jpg",
+      "new": "blog-images/1759085354898_ijsbh0hi8v.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759086221422_f2erduznadb_1000x1000.jpg",
+      "new": "blog-images/1759086221422_f2erduznadb.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759086323634_ahjxof9s3nk_1000x1000.jpg",
+      "new": "blog-images/1759086323634_ahjxof9s3nk.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759086404082_e1h473o4zx_1000x1000.jpg",
+      "new": "blog-images/1759086404082_e1h473o4zx.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759087677483_6i5qubo1nss_1000x1000.jpg",
+      "new": "blog-images/1759087677483_6i5qubo1nss.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759087885182_ibtcct6puyj_1000x1000.jpg",
+      "new": "blog-images/1759087885182_ibtcct6puyj.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759087979319_neiq5uny48l_1000x1000.jpg",
+      "new": "blog-images/1759087979319_neiq5uny48l.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759089247953_lxkjnm946gc_1000x1000.jpg",
+      "new": "blog-images/1759089247953_lxkjnm946gc.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759089507018_ody7nr6sg6_1000x1000.jpg",
+      "new": "blog-images/1759089507018_ody7nr6sg6.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759098105917_sckbapc97z9_1000x1000.jpg",
+      "new": "blog-images/1759098105917_sckbapc97z9.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759098290931_agqq6fi33x_1000x1000.jpg",
+      "new": "blog-images/1759098290931_agqq6fi33x.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759184749286_mxoa2kuj1l8_1000x1000.jpg",
+      "new": "blog-images/1759184749286_mxoa2kuj1l8.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759184787082_5t9zpn1d70q_1000x1000.jpg",
+      "new": "blog-images/1759184787082_5t9zpn1d70q.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759184938498_r8mvfvye6m_1000x1000.jpg",
+      "new": "blog-images/1759184938498_r8mvfvye6m.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759184984043_aikmln4avvd_1000x1000.jpg",
+      "new": "blog-images/1759184984043_aikmln4avvd.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759188456805_rtxlebucf0p_1000x1000.jpg",
+      "new": "blog-images/1759188456805_rtxlebucf0p.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759188514305_wn3ph0f2nkk_1000x1000.jpg",
+      "new": "blog-images/1759188514305_wn3ph0f2nkk.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759188593101_eug85ag18l_1000x1000.jpg",
+      "new": "blog-images/1759188593101_eug85ag18l.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759188734542_etcy8p6lg3_1000x1000.jpg",
+      "new": "blog-images/1759188734542_etcy8p6lg3.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759188829866_t5zr1md0ln9_1000x1000.jpg",
+      "new": "blog-images/1759188829866_t5zr1md0ln9.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759251630304_pt11skjdtkh_1000x1000.jpg",
+      "new": "blog-images/1759251630304_pt11skjdtkh.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759251725873_nbl8jtofrha_1000x1000.jpg",
+      "new": "blog-images/1759251725873_nbl8jtofrha.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759251775428_2h3zfywp6a_1000x1000.jpg",
+      "new": "blog-images/1759251775428_2h3zfywp6a.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759252311275_6ktfe7bl9f_1000x1000.jpg",
+      "new": "blog-images/1759252311275_6ktfe7bl9f.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759252405025_x06bc2t79y8_1000x1000.jpg",
+      "new": "blog-images/1759252405025_x06bc2t79y8.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759252442663_lgx45liio5a_1000x1000.jpg",
+      "new": "blog-images/1759252442663_lgx45liio5a.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759252527081_lxwlpw8xvu_1000x1000.jpg",
+      "new": "blog-images/1759252527081_lxwlpw8xvu.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759252637742_i347oy1och_1000x1000.jpg",
+      "new": "blog-images/1759252637742_i347oy1och.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759252673270_vmwexx3puc_1000x1000.jpg",
+      "new": "blog-images/1759252673270_vmwexx3puc.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759252707235_btynp3ff4zd_1000x1000.jpg",
+      "new": "blog-images/1759252707235_btynp3ff4zd.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759252760618_tgfzdx8s8ef_1000x1000.jpg",
+      "new": "blog-images/1759252760618_tgfzdx8s8ef.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759252890595_08kpg16m93r6_1000x1000.jpg",
+      "new": "blog-images/1759252890595_08kpg16m93r6.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759253081822_ywohsx4ktze_1000x1000.jpg",
+      "new": "blog-images/1759253081822_ywohsx4ktze.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759253141480_jdmxlodq84_1000x1000.jpg",
+      "new": "blog-images/1759253141480_jdmxlodq84.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759253159376_n1e8b352to_1000x1000.jpg",
+      "new": "blog-images/1759253159376_n1e8b352to.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759262139744_1f37dk46krz_1000x1000.jpg",
+      "new": "blog-images/1759262139744_1f37dk46krz.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759262567834_xfbfa5037md_1000x1000.jpg",
+      "new": "blog-images/1759262567834_xfbfa5037md.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759322536897_hpdfe16iz6h_1000x1000.jpg",
+      "new": "blog-images/1759322536897_hpdfe16iz6h.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759322617752_asqs4hxr7yo_1000x1000.jpg",
+      "new": "blog-images/1759322617752_asqs4hxr7yo.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759322907172_mfrkg0dtb1d_1000x1000.jpg",
+      "new": "blog-images/1759322907172_mfrkg0dtb1d.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759338608180_hv9chk0kujj_1000x1000.jpg",
+      "new": "blog-images/1759338608180_hv9chk0kujj.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759338758543_sp5njdmtjcf_1000x1000.jpg",
+      "new": "blog-images/1759338758543_sp5njdmtjcf.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759338850398_wus142praoh_1000x1000.jpg",
+      "new": "blog-images/1759338850398_wus142praoh.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759338949076_xz06gxudf4k_1000x1000.jpg",
+      "new": "blog-images/1759338949076_xz06gxudf4k.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759339019943_wwau9ox05kk_1000x1000.jpg",
+      "new": "blog-images/1759339019943_wwau9ox05kk.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759339096605_4xcwgj73osu_1000x1000.jpg",
+      "new": "blog-images/1759339096605_4xcwgj73osu.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759339165885_1o11r4bc2iz_1000x1000.jpg",
+      "new": "blog-images/1759339165885_1o11r4bc2iz.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759339254578_knuqn51p8qp_1000x1000.jpg",
+      "new": "blog-images/1759339254578_knuqn51p8qp.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759339430367_8x56scadiey_1000x1000.jpg",
+      "new": "blog-images/1759339430367_8x56scadiey.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759403442029_rlcb7g6nwv_1000x1000.jpg",
+      "new": "blog-images/1759403442029_rlcb7g6nwv.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759403541270_yr4b4yyzv8e_1000x1000.jpg",
+      "new": "blog-images/1759403541270_yr4b4yyzv8e.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759404298639_myuwcubigi_1000x1000.jpg",
+      "new": "blog-images/1759404298639_myuwcubigi.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759404366322_vuh8hxhiqi9_1000x1000.jpg",
+      "new": "blog-images/1759404366322_vuh8hxhiqi9.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759404424471_a8xbtlaz34_1000x1000.jpg",
+      "new": "blog-images/1759404424471_a8xbtlaz34.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759404551219_0glroe7a5mw_1000x1000.jpg",
+      "new": "blog-images/1759404551219_0glroe7a5mw.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759404677689_mh6ualc4sz8_1000x1000.jpg",
+      "new": "blog-images/1759404677689_mh6ualc4sz8.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759404768350_sjf3uvwbnb8_1000x1000.jpg",
+      "new": "blog-images/1759404768350_sjf3uvwbnb8.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759404881671_qx9h693ervb_1000x1000.jpg",
+      "new": "blog-images/1759404881671_qx9h693ervb.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759516003331_sn5x5z4b64a_1000x1000.jpg",
+      "new": "blog-images/1759516003331_sn5x5z4b64a.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759516069824_cn1wp4prcwa_1000x1000.jpg",
+      "new": "blog-images/1759516069824_cn1wp4prcwa.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759516276912_c2ny7et0fr_1000x1000.jpg",
+      "new": "blog-images/1759516276912_c2ny7et0fr.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759776285794_e1qn60kt5nw_1000x1000.jpg",
+      "new": "blog-images/1759776285794_e1qn60kt5nw.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759776323910_zvo7ycdfcc_1000x1000.jpg",
+      "new": "blog-images/1759776323910_zvo7ycdfcc.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759776403396_xqi8mryn969_1000x1000.jpg",
+      "new": "blog-images/1759776403396_xqi8mryn969.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759776475017_jxaf0kzekml_1000x1000.jpg",
+      "new": "blog-images/1759776475017_jxaf0kzekml.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759776582701_rm1b2kyy66i_1000x1000.jpg",
+      "new": "blog-images/1759776582701_rm1b2kyy66i.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759776708379_ve6jwo139sg_1000x1000.jpg",
+      "new": "blog-images/1759776708379_ve6jwo139sg.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759776782959_3t0bg3wf73a_1000x1000.jpg",
+      "new": "blog-images/1759776782959_3t0bg3wf73a.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759776812578_prl4p62zu2c_1000x1000.jpg",
+      "new": "blog-images/1759776812578_prl4p62zu2c.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759776949094_3akqcyn9cw9_1000x1000.jpg",
+      "new": "blog-images/1759776949094_3akqcyn9cw9.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759777016197_6xvsgs605w_1000x1000.jpg",
+      "new": "blog-images/1759777016197_6xvsgs605w.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759777093285_ibg3hzpgq4r_1000x1000.jpg",
+      "new": "blog-images/1759777093285_ibg3hzpgq4r.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759777238691_fthnl6onbk_1000x1000.jpg",
+      "new": "blog-images/1759777238691_fthnl6onbk.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759777308341_6kh8amuou02_1000x1000.jpg",
+      "new": "blog-images/1759777308341_6kh8amuou02.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759777419354_cb8wdt1j5g_1000x1000.jpg",
+      "new": "blog-images/1759777419354_cb8wdt1j5g.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759946031975_mle6vaq2ams_1000x1000.jpg",
+      "new": "blog-images/1759946031975_mle6vaq2ams.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759946071727_g9lhw7kabsl_1000x1000.jpg",
+      "new": "blog-images/1759946071727_g9lhw7kabsl.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759946196875_y62c303n8d_1000x1000.jpg",
+      "new": "blog-images/1759946196875_y62c303n8d.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759946235047_zs6kf78qky_1000x1000.jpg",
+      "new": "blog-images/1759946235047_zs6kf78qky.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759946261544_zg9ezfnjd8_1000x1000.jpg",
+      "new": "blog-images/1759946261544_zg9ezfnjd8.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1759946287789_5d8n73id2u5_1000x1000.jpg",
+      "new": "blog-images/1759946287789_5d8n73id2u5.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1760221897620_cm8bi96rugf_1000x1000.jpg",
+      "new": "blog-images/1760221897620_cm8bi96rugf.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1760222328137_hrx9p33s68f_1000x1000.jpg",
+      "new": "blog-images/1760222328137_hrx9p33s68f.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1760222362066_h6m18k66fpp_1000x1000.jpg",
+      "new": "blog-images/1760222362066_h6m18k66fpp.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1760222534396_67wtac5pp87_1000x1000.jpg",
+      "new": "blog-images/1760222534396_67wtac5pp87.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1760222675119_z92f3pdmoii_1000x1000.jpg",
+      "new": "blog-images/1760222675119_z92f3pdmoii.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1760222993913_jphhcqtr3h9_1000x1000.jpg",
+      "new": "blog-images/1760222993913_jphhcqtr3h9.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1760223208428_1ugru3m66ev_1000x1000.jpg",
+      "new": "blog-images/1760223208428_1ugru3m66ev.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blog-images/1760464372962_ggeesdyn0rb_1000x1000.jpg",
+      "new": "blog-images/1760464372962_ggeesdyn0rb.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-AZ2E19nZ3OpCCvHt4tey-1759337292908_1000x1000",
+      "new": "blogs/featured/blog-featured-AZ2E19nZ3OpCCvHt4tey-1759337292908_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-GEjsLUmPtbgT0fNS9r4F-1760087952018_1000x1000",
+      "new": "blogs/featured/blog-featured-GEjsLUmPtbgT0fNS9r4F-1760087952018_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-N6HIrrpgVgrm7BOjeCY1-1760463175251_1000x1000",
+      "new": "blogs/featured/blog-featured-N6HIrrpgVgrm7BOjeCY1-1760463175251_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-QgzOUCPhSdKkmN0YRMjf-1759601690379_1000x1000",
+      "new": "blogs/featured/blog-featured-QgzOUCPhSdKkmN0YRMjf-1759601690379_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-j9Krh7pBkvWSAHpM4RNU-1759404976455_1000x1000",
+      "new": "blogs/featured/blog-featured-j9Krh7pBkvWSAHpM4RNU-1759404976455_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1756834749918_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1756834749918_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758050602332_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758050602332_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758365026568_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758365026568_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758628595123_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758628595123_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758662409755_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758662409755_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758662551937_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758662551937_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758744725942_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758744725942_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758745397485_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758745397485_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758809677388_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758809677388_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758809889142_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758809889142_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758810086793_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758810086793_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758810362175_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758810362175_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758810657939_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758810657939_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758830221758_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758830221758_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758830463920_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758830463920_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758830586733_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758830586733_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758830978782_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758830978782_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758831301755_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758831301755_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758831513576_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758831513576_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758831715670_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758831715670_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758831832016_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758831832016_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758831939982_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758831939982_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758832023331_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758832023331_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758832239305_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758832239305_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758832787771_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758832787771_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758833880710_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758833880710_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758834193935_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758834193935_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758834544330_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758834544330_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758834818313_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758834818313_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758836965572_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758836965572_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758837361448_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758837361448_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758837522737_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758837522737_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758838175705_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758838175705_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758839992279_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758839992279_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1758892826867_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1758892826867_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1759086514706_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1759086514706_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1759088032561_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1759088032561_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1759089586225_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1759089586225_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1759185075966_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1759185075966_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1759189016272_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1759189016272_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1759251884161_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1759251884161_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1759262193112_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1759262193112_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1759322960025_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1759322960025_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1759339326957_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1759339326957_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1759407485652_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1759407485652_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1759516412922_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1759516412922_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "blogs/featured/blog-featured-temp-1759776852228_1000x1000",
+      "new": "blogs/featured/blog-featured-temp-1759776852228_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "portfolios/1759071933119_q3t3aciyh_1000x1000",
+      "new": "portfolios/1759071933119_q3t3aciyh_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "portfolios/1759169758868_9du94gzj2_1000x1000",
+      "new": "portfolios/1759169758868_9du94gzj2_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "portfolios/1759170038994_b1e0cid18_1000x1000",
+      "new": "portfolios/1759170038994_b1e0cid18_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "portfolios/1759170075380_z47d579nn_1000x1000",
+      "new": "portfolios/1759170075380_z47d579nn_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "portfolios/1759264975239_p6pd822fx_1000x1000",
+      "new": "portfolios/1759264975239_p6pd822fx_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "portfolios/1759265165261_9mubq93it_1000x1000",
+      "new": "portfolios/1759265165261_9mubq93it_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "portfolios/1759327380706_yss4jtsdr_1000x1000",
+      "new": "portfolios/1759327380706_yss4jtsdr_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "portfolios/1759329186344_xwr1fnpx9_1000x1000",
+      "new": "portfolios/1759329186344_xwr1fnpx9_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "portfolios/1759329399539_ckxiokvjr_1000x1000",
+      "new": "portfolios/1759329399539_ckxiokvjr_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "portfolios/1759903161132_bik0ixtt5_1000x1000",
+      "new": "portfolios/1759903161132_bik0ixtt5_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "profile-photos/2Aqf7HZKuReQln7hGyQStsohHI52_1000x1000",
+      "new": "profile-photos/2Aqf7HZKuReQln7hGyQStsohHI52_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "profile-photos/AthHkDN5dnbuBoANNrh4OrQkZXY2_1000x1000",
+      "new": "profile-photos/AthHkDN5dnbuBoANNrh4OrQkZXY2_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "profile-photos/CyeZWtG7nLQddUR5aUNHqBXoAQx2_1000x1000",
+      "new": "profile-photos/CyeZWtG7nLQddUR5aUNHqBXoAQx2_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "profile-photos/H5cGt3Jy28gkEpIrVDPSmxVKGss1_1000x1000",
+      "new": "profile-photos/H5cGt3Jy28gkEpIrVDPSmxVKGss1_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "profile-photos/Jcml9f8te9RYKR4GRkWSdi8CepR2_1000x1000",
+      "new": "profile-photos/Jcml9f8te9RYKR4GRkWSdi8CepR2_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "profile-photos/JiPoMpWLH8YEl1Y3Gw6h6p5h3wo2_1000x1000",
+      "new": "profile-photos/JiPoMpWLH8YEl1Y3Gw6h6p5h3wo2_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "profile-photos/LmBWjoWFbhYGDO6OXiotrobSOU43_1000x1000",
+      "new": "profile-photos/LmBWjoWFbhYGDO6OXiotrobSOU43_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "profile-photos/OZ4VDAH0SJXHqlsSmoEE9cs670Y2_1000x1000",
+      "new": "profile-photos/OZ4VDAH0SJXHqlsSmoEE9cs670Y2_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "profile-photos/QGUPqowRZifjSYqMAGFcLWDockn1_1000x1000",
+      "new": "profile-photos/QGUPqowRZifjSYqMAGFcLWDockn1_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "profile-photos/RA20h1k2chVgXC7fxh8T5Se4B0w2_1000x1000",
+      "new": "profile-photos/RA20h1k2chVgXC7fxh8T5Se4B0w2_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "profile-photos/RfDMMJmq8gT5d8cIjZaI1FhEHhs2_1000x1000",
+      "new": "profile-photos/RfDMMJmq8gT5d8cIjZaI1FhEHhs2_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "profile-photos/Sz3Bd1RqBQelNMEDyAnq3oGjkdg1_1000x1000",
+      "new": "profile-photos/Sz3Bd1RqBQelNMEDyAnq3oGjkdg1_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "profile-photos/U9ws3nsdrkWQtqVCHe6ZQf3lbD13_1000x1000",
+      "new": "profile-photos/U9ws3nsdrkWQtqVCHe6ZQf3lbD13_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "profile-photos/dSsJxbebqwbCrbEqMwiS4Os9YA63_1000x1000",
+      "new": "profile-photos/dSsJxbebqwbCrbEqMwiS4Os9YA63_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "profile-photos/kCbTSmiVSpYfRWUVsG2hWOm8qxE2_1000x1000",
+      "new": "profile-photos/kCbTSmiVSpYfRWUVsG2hWOm8qxE2_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "profile-photos/kZfiIR6iPJQFB8fg16wR0FktHgO2_1000x1000",
+      "new": "profile-photos/kZfiIR6iPJQFB8fg16wR0FktHgO2_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "profile-photos/lDsZ3noADDR0OMtT6ipI2YfOWu53_1000x1000",
+      "new": "profile-photos/lDsZ3noADDR0OMtT6ipI2YfOWu53_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "profile-photos/tgI9DtEi10dU0jw2eZRsrlMo0iB3_1000x1000",
+      "new": "profile-photos/tgI9DtEi10dU0jw2eZRsrlMo0iB3_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "profile-photos/v4CWsyV6vdOFeuihIZwpTyaLodE3_1000x1000",
+      "new": "profile-photos/v4CWsyV6vdOFeuihIZwpTyaLodE3_1000x1000",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/2uGRwRYLS3RTiG7x6yB5/photos/photo_1_1758746259778_1000x1000.png",
+      "new": "venues/2uGRwRYLS3RTiG7x6yB5/photos/photo_1_1758746259778.png",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/3hlFED2t4IB5MQZGmfRf/photos/photo_1_1756842009752_1000x1000.jpg",
+      "new": "venues/3hlFED2t4IB5MQZGmfRf/photos/photo_1_1756842009752.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/4CUzHhz59nuNZ6CPO6Jy/photos/photo_1_1760280448409_1000x1000.webp",
+      "new": "venues/4CUzHhz59nuNZ6CPO6Jy/photos/photo_1_1760280448409.webp",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/736lP9TwyLpfFHjO0W8L/photos/photo_1_1759777100254_1000x1000.jpeg",
+      "new": "venues/736lP9TwyLpfFHjO0W8L/photos/photo_1_1759777100254.jpeg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/736lP9TwyLpfFHjO0W8L/photos/photo_2_1759777103724_1000x1000.jpeg",
+      "new": "venues/736lP9TwyLpfFHjO0W8L/photos/photo_2_1759777103724.jpeg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/736lP9TwyLpfFHjO0W8L/photos/photo_3_1759777105990_1000x1000.jpg",
+      "new": "venues/736lP9TwyLpfFHjO0W8L/photos/photo_3_1759777105990.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/7axt5YfoOzPuCIp0oUyf/photos/photo_1_1758662072592_1000x1000.jpg",
+      "new": "venues/7axt5YfoOzPuCIp0oUyf/photos/photo_1_1758662072592.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/7ndHfqsDx3LsaUt31vpK/photos/photo_1_1758837862925_1000x1000.jpg",
+      "new": "venues/7ndHfqsDx3LsaUt31vpK/photos/photo_1_1758837862925.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/7ndHfqsDx3LsaUt31vpK/photos/photo_2_1758837866745_1000x1000.jpg",
+      "new": "venues/7ndHfqsDx3LsaUt31vpK/photos/photo_2_1758837866745.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/7ndHfqsDx3LsaUt31vpK/photos/photo_3_1758837867236_1000x1000.jpg",
+      "new": "venues/7ndHfqsDx3LsaUt31vpK/photos/photo_3_1758837867236.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/7ndHfqsDx3LsaUt31vpK/photos/photo_4_1758837867692_1000x1000.png",
+      "new": "venues/7ndHfqsDx3LsaUt31vpK/photos/photo_4_1758837867692.png",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/8GH7BHADv0biIwvZKBXi/photos/photo_1_1756144568732_1000x1000.jpg",
+      "new": "venues/8GH7BHADv0biIwvZKBXi/photos/photo_1_1756144568732.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/8GH7BHADv0biIwvZKBXi/photos/photo_2_1756144571066_1000x1000.jpg",
+      "new": "venues/8GH7BHADv0biIwvZKBXi/photos/photo_2_1756144571066.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/8GH7BHADv0biIwvZKBXi/photos/photo_3_1756144573042_1000x1000.jpg",
+      "new": "venues/8GH7BHADv0biIwvZKBXi/photos/photo_3_1756144573042.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/8GH7BHADv0biIwvZKBXi/photos/photo_4_1756144574702_1000x1000.jpg",
+      "new": "venues/8GH7BHADv0biIwvZKBXi/photos/photo_4_1756144574702.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/8GH7BHADv0biIwvZKBXi/photos/photo_5_1756144576381_1000x1000.jpg",
+      "new": "venues/8GH7BHADv0biIwvZKBXi/photos/photo_5_1756144576381.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/8GH7BHADv0biIwvZKBXi/photos/photo_6_1756144578542_1000x1000.jpg",
+      "new": "venues/8GH7BHADv0biIwvZKBXi/photos/photo_6_1756144578542.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/9YHUykfbxWsbyeT7npkV/photos/photo_1_1758835458019_1000x1000.jpg",
+      "new": "venues/9YHUykfbxWsbyeT7npkV/photos/photo_1_1758835458019.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/AtP7QR1HzioazZBoJIMT/photos/photo_1_1756659367475_1000x1000.jpg",
+      "new": "venues/AtP7QR1HzioazZBoJIMT/photos/photo_1_1756659367475.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/CNt4cS52O6LxFNcMZnL5/photos/photo_1_1758472888803_1000x1000.png",
+      "new": "venues/CNt4cS52O6LxFNcMZnL5/photos/photo_1_1758472888803.png",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/DWmS8sBC57wHTZbDjaZe/photos/photo_1_1758900675672_1000x1000.jpg",
+      "new": "venues/DWmS8sBC57wHTZbDjaZe/photos/photo_1_1758900675672.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/DWmS8sBC57wHTZbDjaZe/photos/photo_2_1758900681585_1000x1000.jpg",
+      "new": "venues/DWmS8sBC57wHTZbDjaZe/photos/photo_2_1758900681585.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/DWmS8sBC57wHTZbDjaZe/photos/photo_3_1758900687609_1000x1000.jpg",
+      "new": "venues/DWmS8sBC57wHTZbDjaZe/photos/photo_3_1758900687609.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/ECMlNjqLhXHeBdt7Y1Rr/photos/photo_1_1756841535647_1000x1000.jpg",
+      "new": "venues/ECMlNjqLhXHeBdt7Y1Rr/photos/photo_1_1756841535647.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/EphgzlGyup0VHM96IUmv/photos/photo_1_1758837710131_1000x1000.jpg",
+      "new": "venues/EphgzlGyup0VHM96IUmv/photos/photo_1_1758837710131.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/EphgzlGyup0VHM96IUmv/photos/photo_2_1758837713835_1000x1000.jpg",
+      "new": "venues/EphgzlGyup0VHM96IUmv/photos/photo_2_1758837713835.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/EphgzlGyup0VHM96IUmv/photos/photo_3_1758837715024_1000x1000.jpg",
+      "new": "venues/EphgzlGyup0VHM96IUmv/photos/photo_3_1758837715024.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/EphgzlGyup0VHM96IUmv/photos/photo_4_1758837715440_1000x1000.png",
+      "new": "venues/EphgzlGyup0VHM96IUmv/photos/photo_4_1758837715440.png",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/GOteVp7dwInsWtU2pmLH/photos/photo_1_1756837643019_1000x1000.jpg",
+      "new": "venues/GOteVp7dwInsWtU2pmLH/photos/photo_1_1756837643019.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/IsUDIpgrnbchLmfSeQ9W/photos/photo_1_1760466288423_1000x1000.jpg",
+      "new": "venues/IsUDIpgrnbchLmfSeQ9W/photos/photo_1_1760466288423.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/JaLSVPSDpprQ5talXJJi/photos/photo_1_1759904549114_1000x1000.jpg",
+      "new": "venues/JaLSVPSDpprQ5talXJJi/photos/photo_1_1759904549114.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/JaLSVPSDpprQ5talXJJi/photos/photo_2_1759904551091_1000x1000.jpg",
+      "new": "venues/JaLSVPSDpprQ5talXJJi/photos/photo_2_1759904551091.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/JaLSVPSDpprQ5talXJJi/photos/photo_3_1759904552733_1000x1000.jpg",
+      "new": "venues/JaLSVPSDpprQ5talXJJi/photos/photo_3_1759904552733.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/JaLSVPSDpprQ5talXJJi/photos/photo_4_1759904554503_1000x1000.jpg",
+      "new": "venues/JaLSVPSDpprQ5talXJJi/photos/photo_4_1759904554503.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/JaLSVPSDpprQ5talXJJi/photos/photo_5_1759904556573_1000x1000.jpg",
+      "new": "venues/JaLSVPSDpprQ5talXJJi/photos/photo_5_1759904556573.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/JaLSVPSDpprQ5talXJJi/photos/photo_6_1759904558578_1000x1000.jpg",
+      "new": "venues/JaLSVPSDpprQ5talXJJi/photos/photo_6_1759904558578.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/JaLSVPSDpprQ5talXJJi/photos/photo_7_1759904561553_1000x1000.jpg",
+      "new": "venues/JaLSVPSDpprQ5talXJJi/photos/photo_7_1759904561553.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/KnDOXIr72Z7PRQjE2sZr/photos/photo_1_1758834738007_1000x1000.png",
+      "new": "venues/KnDOXIr72Z7PRQjE2sZr/photos/photo_1_1758834738007.png",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/LvUpolToXLZ27yQ1HIab/photos/photo_1_1760283538877_1000x1000.jpg",
+      "new": "venues/LvUpolToXLZ27yQ1HIab/photos/photo_1_1760283538877.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/NoVzAVHwJk9c5dvGr3tB/photos/photo_1_1759768303115_1000x1000.jpeg",
+      "new": "venues/NoVzAVHwJk9c5dvGr3tB/photos/photo_1_1759768303115.jpeg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/NoVzAVHwJk9c5dvGr3tB/photos/photo_2_1759768310536_1000x1000.jpeg",
+      "new": "venues/NoVzAVHwJk9c5dvGr3tB/photos/photo_2_1759768310536.jpeg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/NoVzAVHwJk9c5dvGr3tB/photos/photo_3_1759768318620_1000x1000.jpeg",
+      "new": "venues/NoVzAVHwJk9c5dvGr3tB/photos/photo_3_1759768318620.jpeg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/NoVzAVHwJk9c5dvGr3tB/photos/photo_4_1759768325810_1000x1000.jpeg",
+      "new": "venues/NoVzAVHwJk9c5dvGr3tB/photos/photo_4_1759768325810.jpeg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/NoVzAVHwJk9c5dvGr3tB/photos/photo_5_1759768332667_1000x1000.jpeg",
+      "new": "venues/NoVzAVHwJk9c5dvGr3tB/photos/photo_5_1759768332667.jpeg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/NoVzAVHwJk9c5dvGr3tB/photos/photo_6_1759768338195_1000x1000.jpeg",
+      "new": "venues/NoVzAVHwJk9c5dvGr3tB/photos/photo_6_1759768338195.jpeg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/NoVzAVHwJk9c5dvGr3tB/photos/photo_7_1759768345721_1000x1000.jpeg",
+      "new": "venues/NoVzAVHwJk9c5dvGr3tB/photos/photo_7_1759768345721.jpeg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/NoVzAVHwJk9c5dvGr3tB/photos/photo_8_1759768353313_1000x1000.jpeg",
+      "new": "venues/NoVzAVHwJk9c5dvGr3tB/photos/photo_8_1759768353313.jpeg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/OOJhfKp8TzEKOXa8CQmW/photos/photo_1_1760085269732_1000x1000.jpg",
+      "new": "venues/OOJhfKp8TzEKOXa8CQmW/photos/photo_1_1760085269732.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/OOJhfKp8TzEKOXa8CQmW/photos/photo_2_1760085275212_1000x1000.jpg",
+      "new": "venues/OOJhfKp8TzEKOXa8CQmW/photos/photo_2_1760085275212.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/OOJhfKp8TzEKOXa8CQmW/photos/photo_3_1760085280495_1000x1000.jpg",
+      "new": "venues/OOJhfKp8TzEKOXa8CQmW/photos/photo_3_1760085280495.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/PG4m19VW0IhPq6QBV3WE/photos/photo_1_1758892728481_1000x1000.png",
+      "new": "venues/PG4m19VW0IhPq6QBV3WE/photos/photo_1_1758892728481.png",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/PG4m19VW0IhPq6QBV3WE/photos/photo_2_1758892733696_1000x1000.jpg",
+      "new": "venues/PG4m19VW0IhPq6QBV3WE/photos/photo_2_1758892733696.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/PG4m19VW0IhPq6QBV3WE/photos/photo_3_1758892735771_1000x1000.jpg",
+      "new": "venues/PG4m19VW0IhPq6QBV3WE/photos/photo_3_1758892735771.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/PG4m19VW0IhPq6QBV3WE/photos/photo_4_1758892737213_1000x1000.jpg",
+      "new": "venues/PG4m19VW0IhPq6QBV3WE/photos/photo_4_1758892737213.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/Pf0u1plg9cXbwApcavwz/photos/photo_1_1756149707981_1000x1000.jpg",
+      "new": "venues/Pf0u1plg9cXbwApcavwz/photos/photo_1_1756149707981.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/QRkRYW4OZtpOXRnDeOG2/photos/photo_1_1756842925413_1000x1000.jpg",
+      "new": "venues/QRkRYW4OZtpOXRnDeOG2/photos/photo_1_1756842925413.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/R2PK1VUoHPPwDfy2CWiN/photos/photo_1_1758468533813_1000x1000.jpg",
+      "new": "venues/R2PK1VUoHPPwDfy2CWiN/photos/photo_1_1758468533813.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/RmhBHCTNTMzQnGRFnUUr/photos/photo_1_1757026947924_1000x1000.jpg",
+      "new": "venues/RmhBHCTNTMzQnGRFnUUr/photos/photo_1_1757026947924.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/RmhBHCTNTMzQnGRFnUUr/photos/photo_2_1757026951804_1000x1000.jpg",
+      "new": "venues/RmhBHCTNTMzQnGRFnUUr/photos/photo_2_1757026951804.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/RmhBHCTNTMzQnGRFnUUr/photos/photo_3_1757026953840_1000x1000.jpg",
+      "new": "venues/RmhBHCTNTMzQnGRFnUUr/photos/photo_3_1757026953840.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/RmhBHCTNTMzQnGRFnUUr/photos/photo_4_1757026955781_1000x1000.jpg",
+      "new": "venues/RmhBHCTNTMzQnGRFnUUr/photos/photo_4_1757026955781.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/UOWB07ZeTtgJhZGSE40c/photos/photo_1_1758472082227_1000x1000.png",
+      "new": "venues/UOWB07ZeTtgJhZGSE40c/photos/photo_1_1758472082227.png",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/UXVabIvQDtSMLh69JkwP/photos/photo_1_1756144621522_1000x1000.jpg",
+      "new": "venues/UXVabIvQDtSMLh69JkwP/photos/photo_1_1756144621522.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/UXVabIvQDtSMLh69JkwP/photos/photo_2_1756144624836_1000x1000.jpg",
+      "new": "venues/UXVabIvQDtSMLh69JkwP/photos/photo_2_1756144624836.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/UXVabIvQDtSMLh69JkwP/photos/photo_3_1756144626643_1000x1000.jpg",
+      "new": "venues/UXVabIvQDtSMLh69JkwP/photos/photo_3_1756144626643.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/UXVabIvQDtSMLh69JkwP/photos/photo_4_1756144628242_1000x1000.jpg",
+      "new": "venues/UXVabIvQDtSMLh69JkwP/photos/photo_4_1756144628242.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/UXVabIvQDtSMLh69JkwP/photos/photo_5_1756144629364_1000x1000.jpg",
+      "new": "venues/UXVabIvQDtSMLh69JkwP/photos/photo_5_1756144629364.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/UXVabIvQDtSMLh69JkwP/photos/photo_6_1756144630480_1000x1000.jpg",
+      "new": "venues/UXVabIvQDtSMLh69JkwP/photos/photo_6_1756144630480.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/UXVabIvQDtSMLh69JkwP/photos/photo_7_1756144632011_1000x1000.jpg",
+      "new": "venues/UXVabIvQDtSMLh69JkwP/photos/photo_7_1756144632011.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/VQvyNMNWZiZsYrQVEoGS/photos/photo_1_1756144635741_1000x1000.jpg",
+      "new": "venues/VQvyNMNWZiZsYrQVEoGS/photos/photo_1_1756144635741.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/VQvyNMNWZiZsYrQVEoGS/photos/photo_2_1756144638408_1000x1000.jpg",
+      "new": "venues/VQvyNMNWZiZsYrQVEoGS/photos/photo_2_1756144638408.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/VQvyNMNWZiZsYrQVEoGS/photos/photo_3_1756144639658_1000x1000.jpg",
+      "new": "venues/VQvyNMNWZiZsYrQVEoGS/photos/photo_3_1756144639658.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/VQvyNMNWZiZsYrQVEoGS/photos/photo_4_1756144641470_1000x1000.jpg",
+      "new": "venues/VQvyNMNWZiZsYrQVEoGS/photos/photo_4_1756144641470.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/VQvyNMNWZiZsYrQVEoGS/photos/photo_5_1756144642723_1000x1000.jpg",
+      "new": "venues/VQvyNMNWZiZsYrQVEoGS/photos/photo_5_1756144642723.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/VQvyNMNWZiZsYrQVEoGS/photos/photo_6_1756144643685_1000x1000.jpg",
+      "new": "venues/VQvyNMNWZiZsYrQVEoGS/photos/photo_6_1756144643685.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/VQvyNMNWZiZsYrQVEoGS/photos/photo_7_1756144645275_1000x1000.jpg",
+      "new": "venues/VQvyNMNWZiZsYrQVEoGS/photos/photo_7_1756144645275.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/ZcWHRc1yEBgJKyYznorj/photos/photo_1_1756494494976_1000x1000.jpg",
+      "new": "venues/ZcWHRc1yEBgJKyYznorj/photos/photo_1_1756494494976.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/ZfPtq0Ee5Liz5vEJlZja/photos/photo_1_1759320007850_1000x1000.jpg",
+      "new": "venues/ZfPtq0Ee5Liz5vEJlZja/photos/photo_1_1759320007850.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/ZfPtq0Ee5Liz5vEJlZja/photos/photo_2_1759320013249_1000x1000.jpg",
+      "new": "venues/ZfPtq0Ee5Liz5vEJlZja/photos/photo_2_1759320013249.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/ZfPtq0Ee5Liz5vEJlZja/photos/photo_3_1759320021717_1000x1000.png",
+      "new": "venues/ZfPtq0Ee5Liz5vEJlZja/photos/photo_3_1759320021717.png",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/ZfPtq0Ee5Liz5vEJlZja/photos/photo_4_1759320028258_1000x1000.png",
+      "new": "venues/ZfPtq0Ee5Liz5vEJlZja/photos/photo_4_1759320028258.png",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/ZioaNc6caj5ize84kGda/photos/photo_1_1758839889796_1000x1000.jpg",
+      "new": "venues/ZioaNc6caj5ize84kGda/photos/photo_1_1758839889796.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/ZioaNc6caj5ize84kGda/photos/photo_2_1758839891006_1000x1000.jpg",
+      "new": "venues/ZioaNc6caj5ize84kGda/photos/photo_2_1758839891006.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/ZioaNc6caj5ize84kGda/photos/photo_3_1758839892226_1000x1000.jpg",
+      "new": "venues/ZioaNc6caj5ize84kGda/photos/photo_3_1758839892226.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/ZioaNc6caj5ize84kGda/photos/photo_4_1758839895635_1000x1000.png",
+      "new": "venues/ZioaNc6caj5ize84kGda/photos/photo_4_1758839895635.png",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/cZz2tUJI7JgIT6fweaFK/photos/photo_1_1758411807023_1000x1000.jpg",
+      "new": "venues/cZz2tUJI7JgIT6fweaFK/photos/photo_1_1758411807023.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/chLZr3iHNO2Zn8JF1Bty/photos/photo_1_1758748239437_1000x1000.png",
+      "new": "venues/chLZr3iHNO2Zn8JF1Bty/photos/photo_1_1758748239437.png",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/gLbQR8Osf1G2Jp4FyV5z/photos/photo_1_1756841672032_1000x1000.jpg",
+      "new": "venues/gLbQR8Osf1G2Jp4FyV5z/photos/photo_1_1756841672032.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/h9JUP4ivdNkjaKIW1IjP/photos/photo_1_1758050468506_1000x1000.webp",
+      "new": "venues/h9JUP4ivdNkjaKIW1IjP/photos/photo_1_1758050468506.webp",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/hDJJ6vmpmM046laXLjNw/photos/photo_1_1759276349934_1000x1000.jpg",
+      "new": "venues/hDJJ6vmpmM046laXLjNw/photos/photo_1_1759276349934.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/jI9glcLOudIrxKGmjpAS/photos/photo_1_1759482953608_1000x1000.jpg",
+      "new": "venues/jI9glcLOudIrxKGmjpAS/photos/photo_1_1759482953608.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/jI9glcLOudIrxKGmjpAS/photos/photo_2_1759482959125_1000x1000.jpg",
+      "new": "venues/jI9glcLOudIrxKGmjpAS/photos/photo_2_1759482959125.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/jI9glcLOudIrxKGmjpAS/photos/photo_3_1759482962504_1000x1000.jpg",
+      "new": "venues/jI9glcLOudIrxKGmjpAS/photos/photo_3_1759482962504.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/jI9glcLOudIrxKGmjpAS/photos/photo_4_1759482964855_1000x1000.jpg",
+      "new": "venues/jI9glcLOudIrxKGmjpAS/photos/photo_4_1759482964855.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/jI9glcLOudIrxKGmjpAS/photos/photo_5_1759482967520_1000x1000.jpg",
+      "new": "venues/jI9glcLOudIrxKGmjpAS/photos/photo_5_1759482967520.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/jI9glcLOudIrxKGmjpAS/photos/photo_6_1759482970652_1000x1000.jpg",
+      "new": "venues/jI9glcLOudIrxKGmjpAS/photos/photo_6_1759482970652.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/jI9glcLOudIrxKGmjpAS/photos/photo_7_1759482973403_1000x1000.jpg",
+      "new": "venues/jI9glcLOudIrxKGmjpAS/photos/photo_7_1759482973403.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/jI9glcLOudIrxKGmjpAS/photos/photo_8_1759482975611_1000x1000.jpg",
+      "new": "venues/jI9glcLOudIrxKGmjpAS/photos/photo_8_1759482975611.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/kUsZVqffGqJg3TZafXAE/photos/photo_1_1759322381312_1000x1000.JPG",
+      "new": "venues/kUsZVqffGqJg3TZafXAE/photos/photo_1_1759322381312.JPG",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/kUsZVqffGqJg3TZafXAE/photos/photo_2_1759322383860_1000x1000.JPG",
+      "new": "venues/kUsZVqffGqJg3TZafXAE/photos/photo_2_1759322383860.JPG",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/kUsZVqffGqJg3TZafXAE/photos/photo_3_1759322385803_1000x1000.JPG",
+      "new": "venues/kUsZVqffGqJg3TZafXAE/photos/photo_3_1759322385803.JPG",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/lunHkjijrf3CYPI28Zgf/photos/photo_1_1759074593131_1000x1000.jpg",
+      "new": "venues/lunHkjijrf3CYPI28Zgf/photos/photo_1_1759074593131.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/lunHkjijrf3CYPI28Zgf/photos/photo_2_1759074596004_1000x1000.jpg",
+      "new": "venues/lunHkjijrf3CYPI28Zgf/photos/photo_2_1759074596004.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/lunHkjijrf3CYPI28Zgf/photos/photo_3_1759074600782_1000x1000.jpeg",
+      "new": "venues/lunHkjijrf3CYPI28Zgf/photos/photo_3_1759074600782.jpeg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/lunHkjijrf3CYPI28Zgf/photos/photo_4_1759074603992_1000x1000.jpg",
+      "new": "venues/lunHkjijrf3CYPI28Zgf/photos/photo_4_1759074603992.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/mCMU4jFHD4oxU37uADaC/photos/photo_1_1759075813037_1000x1000.jpg",
+      "new": "venues/mCMU4jFHD4oxU37uADaC/photos/photo_1_1759075813037.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/mCMU4jFHD4oxU37uADaC/photos/photo_2_1759075819863_1000x1000.jpg",
+      "new": "venues/mCMU4jFHD4oxU37uADaC/photos/photo_2_1759075819863.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/mCMU4jFHD4oxU37uADaC/photos/photo_3_1759075825291_1000x1000.jpg",
+      "new": "venues/mCMU4jFHD4oxU37uADaC/photos/photo_3_1759075825291.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/mCMU4jFHD4oxU37uADaC/photos/photo_4_1759075829578_1000x1000.jpg",
+      "new": "venues/mCMU4jFHD4oxU37uADaC/photos/photo_4_1759075829578.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/murk131uqXAz1sjbvxFk/photos/photo_1_1758838664618_1000x1000.jpg",
+      "new": "venues/murk131uqXAz1sjbvxFk/photos/photo_1_1758838664618.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/nG5yqOjbPAL0NA37dYvP/photos/photo_1_1758744267208_1000x1000.jpg",
+      "new": "venues/nG5yqOjbPAL0NA37dYvP/photos/photo_1_1758744267208.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/no8ioD08w5bprShIIjOU/photos/photo_1_1756147302005_1000x1000.png",
+      "new": "venues/no8ioD08w5bprShIIjOU/photos/photo_1_1756147302005.png",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/pv6qWH7S8qf1VmILPJIn/photos/photo_1_1758411285626_1000x1000.jpg",
+      "new": "venues/pv6qWH7S8qf1VmILPJIn/photos/photo_1_1758411285626.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/qT3CUxKTm556bSAgnqHw/photos/photo_1_1756147737165_1000x1000.jpg",
+      "new": "venues/qT3CUxKTm556bSAgnqHw/photos/photo_1_1756147737165.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/rtNdvIVddHa7HwRJDMW0/photos/photo_1_1760151645229_1000x1000.jpg",
+      "new": "venues/rtNdvIVddHa7HwRJDMW0/photos/photo_1_1760151645229.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/rtNdvIVddHa7HwRJDMW0/photos/photo_2_1760151647585_1000x1000.jpg",
+      "new": "venues/rtNdvIVddHa7HwRJDMW0/photos/photo_2_1760151647585.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/rtNdvIVddHa7HwRJDMW0/photos/photo_3_1760151649594_1000x1000.jpg",
+      "new": "venues/rtNdvIVddHa7HwRJDMW0/photos/photo_3_1760151649594.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/rtNdvIVddHa7HwRJDMW0/photos/photo_4_1760151652076_1000x1000.jpg",
+      "new": "venues/rtNdvIVddHa7HwRJDMW0/photos/photo_4_1760151652076.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/sZPyeBi1frSb5OeAWGYt/photos/photo_1_1756144671705_1000x1000.jpg",
+      "new": "venues/sZPyeBi1frSb5OeAWGYt/photos/photo_1_1756144671705.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/sZPyeBi1frSb5OeAWGYt/photos/photo_2_1756144675136_1000x1000.jpg",
+      "new": "venues/sZPyeBi1frSb5OeAWGYt/photos/photo_2_1756144675136.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/sZPyeBi1frSb5OeAWGYt/photos/photo_3_1756144676706_1000x1000.jpg",
+      "new": "venues/sZPyeBi1frSb5OeAWGYt/photos/photo_3_1756144676706.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/sZPyeBi1frSb5OeAWGYt/photos/photo_4_1756144678082_1000x1000.jpg",
+      "new": "venues/sZPyeBi1frSb5OeAWGYt/photos/photo_4_1756144678082.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/sZPyeBi1frSb5OeAWGYt/photos/photo_5_1756144679438_1000x1000.jpg",
+      "new": "venues/sZPyeBi1frSb5OeAWGYt/photos/photo_5_1756144679438.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/sZPyeBi1frSb5OeAWGYt/photos/photo_6_1756144680731_1000x1000.jpg",
+      "new": "venues/sZPyeBi1frSb5OeAWGYt/photos/photo_6_1756144680731.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/sZPyeBi1frSb5OeAWGYt/photos/photo_7_1756144682293_1000x1000.jpg",
+      "new": "venues/sZPyeBi1frSb5OeAWGYt/photos/photo_7_1756144682293.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/t1xr1nWMSs8RF6Sqg6Ng/photos/photo_1_1756492732130_1000x1000.jpg",
+      "new": "venues/t1xr1nWMSs8RF6Sqg6Ng/photos/photo_1_1756492732130.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/tVWUXqpwsARsw4EB39Av/photos/photo_1_1758837999751_1000x1000.jpg",
+      "new": "venues/tVWUXqpwsARsw4EB39Av/photos/photo_1_1758837999751.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/tVWUXqpwsARsw4EB39Av/photos/photo_2_1758838003880_1000x1000.jpg",
+      "new": "venues/tVWUXqpwsARsw4EB39Av/photos/photo_2_1758838003880.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/tVWUXqpwsARsw4EB39Av/photos/photo_3_1758838004343_1000x1000.jpg",
+      "new": "venues/tVWUXqpwsARsw4EB39Av/photos/photo_3_1758838004343.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/tVWUXqpwsARsw4EB39Av/photos/photo_4_1758838005201_1000x1000.png",
+      "new": "venues/tVWUXqpwsARsw4EB39Av/photos/photo_4_1758838005201.png",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/wej3HNkHy7N1TWr1H47o/photos/photo_1_1758835911481_1000x1000.jpg",
+      "new": "venues/wej3HNkHy7N1TWr1H47o/photos/photo_1_1758835911481.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/wlFbi6ZATQ2nTVJurVOy/photos/photo_1_1758836147103_1000x1000.jpg",
+      "new": "venues/wlFbi6ZATQ2nTVJurVOy/photos/photo_1_1758836147103.jpg",
+      "status": "would rename"
+    },
+    {
+      "old": "venues/xYXhNSdpgqLVdz0zQwHX/photos/photo_1_1760281181955_1000x1000.jpg",
+      "new": "venues/xYXhNSdpgqLVdz0zQwHX/photos/photo_1_1760281181955.jpg",
+      "status": "would rename"
+    }
+  ]
+}

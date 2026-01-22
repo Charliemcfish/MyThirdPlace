@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npm uninstall:*)",
+      "Read(//Users/charliefisher/Downloads/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
