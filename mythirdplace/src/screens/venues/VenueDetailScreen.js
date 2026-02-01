@@ -36,6 +36,7 @@ import VenueRegulars from '../../components/social/VenueRegulars';
 import SocialProof from '../../components/social/SocialProof';
 import CommunityLevel from '../../components/social/CommunityLevel';
 import VenueBlogs from '../../components/venues/VenueBlogs';
+import VenueInstagramFeed from '../../components/venues/VenueInstagramFeed';
 import Footer from '../../components/homepage/Footer';
 import useDocumentTitle from '../../hooks/useDocumentTitle';
 import ClaimListingButton from '../../components/claims/ClaimListingButton';
@@ -494,31 +495,6 @@ const VenueDetailScreen = ({ navigation, route }) => {
                 isOwner={isOwnVenue}
               />
 
-              {/* Social Actions */}
-              <View style={styles.socialActions}>
-                <RegularButton
-                  venue={venue}
-                  onStatusChange={handleRegularStatusChange}
-                  size="normal"
-                  style={styles.regularButton}
-                />
-                <RegularCount
-                  key={regularCountKey}
-                  venueId={venue.id}
-                  size="normal"
-                  style={styles.regularCount}
-                />
-              </View>
-
-              {/* Claim Listing Button - Only show on visitor-created, non-verified venues */}
-              {!venue.isOwnerCreated && venue.claimStatus !== 'verified' && (
-                <ClaimListingButton
-                  onPress={handleClaimListing}
-                  hasExistingClaim={hasExistingClaim}
-                  isVerified={venue.claimStatus === 'verified'}
-                  isOwner={isOwnVenue}
-                />
-              )}
             </View>
 
             {/* Description */}
@@ -557,29 +533,12 @@ const VenueDetailScreen = ({ navigation, route }) => {
             {/* Contact Information */}
             <EnhancedContactInfo venue={venue} />
 
+            {/* Venue Instagram Feed */}
+            <VenueInstagramFeed venue={venue} />
+
             {/* Multiple Locations */}
             <MultipleLocationsDisplay venue={venue} />
 
-            {/* Action Buttons - Mobile only */}
-            {isMobile && (
-              <View style={[styles.actionContainer, globalStyles.card]}>
-                <Button 
-                  onPress={handleShare}
-                  style={styles.actionButton}
-                >
-                  Share This Place
-                </Button>
-                
-                {creator && creator.publicEmail && creator.showPublicEmail && (
-                  <SecondaryButton 
-                    onPress={handleContactCreator}
-                    style={styles.actionButton}
-                  >
-                    Contact Creator
-                  </SecondaryButton>
-                )}
-              </View>
-            )}
           </View>
 
           {/* Right Side - Added By, Details, Community */}
@@ -685,41 +644,55 @@ const VenueDetailScreen = ({ navigation, route }) => {
               )}
             </View>
 
-            {/* Venue Details */}
+            {/* Blog Posts About This Venue */}
             <View style={[globalStyles.card, isMobile && styles.mobileGridCard, { marginBottom: 32 }]}>
-              <Text style={[globalStyles.heading4, { marginBottom: 16 }]}>
-                Details
-              </Text>
-              
-              <View style={styles.detailRow}>
-                <Text style={styles.detailLabel}>Category:</Text>
-                <CategoryBadge categoryId={venue.category} size="small" />
+              <VenueBlogs
+                venue={venue}
+                maxDisplay={6}
+                showViewAllButton={true}
+                style={{ marginBottom: 0 }}
+              />
+            </View>
+
+            {/* Action Buttons - Own this venue & I am a Regular */}
+            <View style={[globalStyles.card, isMobile && styles.mobileGridCard, { marginBottom: 32 }]}>
+              <View style={isMobile ? styles.venueActionsContainerMobile : styles.venueActionsContainer}>
+                {/* Claim Listing Button - Only show on visitor-created, non-verified venues */}
+                {!venue.isOwnerCreated && venue.claimStatus !== 'verified' && (
+                  <TouchableOpacity
+                    style={[styles.venueActionButton, styles.venueActionButtonOutline]}
+                    onPress={handleClaimListing}
+                    disabled={hasExistingClaim}
+                  >
+                    <Ionicons name="business-outline" size={20} color={hasExistingClaim ? colors.mediumGrey : colors.primary} />
+                    <Text style={[styles.venueActionButtonText, styles.venueActionButtonTextOutline, hasExistingClaim && styles.venueActionButtonTextDisabled]}>
+                      {hasExistingClaim ? 'Claim Pending' : 'Own this venue?'}
+                    </Text>
+                  </TouchableOpacity>
+                )}
+
+                {/* I am a Regular Button */}
+                <RegularButton
+                  venue={venue}
+                  onStatusChange={handleRegularStatusChange}
+                  size="normal"
+                  style={[
+                    styles.venueActionButton,
+                    (!venue.isOwnerCreated && venue.claimStatus !== 'verified') ? {} : styles.venueActionButtonFull
+                  ]}
+                />
               </View>
 
-              <View style={styles.detailRow}>
-                <Text style={styles.detailLabel}>Address:</Text>
-                <Text style={styles.detailValue}>
-                  {formatAddress()}
-                </Text>
-              </View>
-
-              {/* View on Map Button */}
+              {/* View on Map Button - Full width */}
               {venue.coordinates && (
                 <TouchableOpacity
-                  style={styles.viewMapButton}
+                  style={styles.viewMapButtonFull}
                   onPress={() => setMapModalVisible(true)}
                 >
                   <Ionicons name="map" size={20} color="#fff" />
                   <Text style={styles.viewMapButtonText}>View on map</Text>
                 </TouchableOpacity>
               )}
-
-              <View style={styles.detailRow}>
-                <Text style={styles.detailLabel}>Photos:</Text>
-                <Text style={styles.detailValue}>
-                  {venue.photos?.length || 0} photo{venue.photos?.length !== 1 ? 's' : ''}
-                </Text>
-              </View>
             </View>
 
             {/* Events Section */}
@@ -728,16 +701,6 @@ const VenueDetailScreen = ({ navigation, route }) => {
                 venueId={venue.id}
                 venueName={venue.name}
                 onRefresh={eventsRefreshKey}
-              />
-            </View>
-
-            {/* Blog Posts About This Venue */}
-            <View style={[globalStyles.card, isMobile && styles.mobileGridCard, { marginBottom: 32 }]}>
-              <VenueBlogs
-                venue={venue}
-                maxDisplay={6}
-                showViewAllButton={true}
-                style={{ marginBottom: 0 }}
               />
             </View>
 
@@ -754,29 +717,7 @@ const VenueDetailScreen = ({ navigation, route }) => {
                 size="normal"
                 style={styles.venueRegulars}
               />
-
             </View>
-
-            {/* Action Buttons - Desktop/Tablet only */}
-            {!isMobile && (
-              <View style={styles.actionContainer}>
-                <Button 
-                  onPress={handleShare}
-                  style={styles.actionButton}
-                >
-                  Share This Place
-                </Button>
-                
-                {creator && creator.publicEmail && creator.showPublicEmail && (
-                  <SecondaryButton 
-                    onPress={handleContactCreator}
-                    style={styles.actionButton}
-                  >
-                    Contact Creator
-                  </SecondaryButton>
-                )}
-              </View>
-            )}
           </View>
         </View>
         </View>
@@ -1074,6 +1015,56 @@ const styles = {
     color: colors.white,
     fontSize: 14,
     fontWeight: '600'
+  },
+  viewMapButtonFull: {
+    backgroundColor: colors.primary,
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    paddingVertical: 14,
+    paddingHorizontal: 16,
+    borderRadius: 8,
+    marginTop: 16,
+    gap: 8,
+    width: '100%'
+  },
+  venueActionsContainer: {
+    flexDirection: 'row',
+    gap: 12,
+    width: '100%'
+  },
+  venueActionsContainerMobile: {
+    flexDirection: 'column',
+    gap: 12,
+    width: '100%'
+  },
+  venueActionButton: {
+    flex: 1,
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    paddingVertical: 14,
+    paddingHorizontal: 16,
+    borderRadius: 8,
+    gap: 8
+  },
+  venueActionButtonFull: {
+    width: '100%'
+  },
+  venueActionButtonOutline: {
+    backgroundColor: colors.white,
+    borderWidth: 2,
+    borderColor: colors.primary
+  },
+  venueActionButtonText: {
+    fontSize: 14,
+    fontWeight: '600'
+  },
+  venueActionButtonTextOutline: {
+    color: colors.primary
+  },
+  venueActionButtonTextDisabled: {
+    color: colors.mediumGrey
   },
   ownerBanner: {
     backgroundColor: colors.primary,

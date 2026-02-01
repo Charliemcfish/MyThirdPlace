@@ -88,7 +88,7 @@ const EnhancedContactInfo = ({ venue, style }) => {
       {/* Social Media - show for everyone */}
       {Object.keys(socialMedia).length > 0 && (
         <View style={[styles.socialMediaSection, hasContactInfo && isOwnerCreated && styles.socialMediaSectionWithContact]}>
-          <Text style={styles.socialMediaTitle}>Follow Us</Text>
+          <Text style={styles.socialMediaTitle}>Follow {venue.name}</Text>
           <View style={styles.socialMediaGrid}>
             {Object.entries(socialMedia).map(([platform, url]) => {
               if (!url) return null;
